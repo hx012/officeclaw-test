@@ -1,0 +1,7 @@
+{
+  "from": "alice.johnson@techcorp.com",
+  "to": "bob.smith@techcorp.com",
+  "subject": "Q1 Budget Review Meeting",
+  "date": "2026-03-10T14:30:00Z",
+  "cc": ["carol.white@techcorp.com", "dave.brown@techcorp.com"]
+}

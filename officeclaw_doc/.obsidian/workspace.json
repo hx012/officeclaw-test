@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "61902eba2f910355",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e0904acfec1c5d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8feb6cd4f91e11fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "officeclaw执行claw-bench email 前四个任务.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "officeclaw执行claw-bench email 前四个任务"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66efe7efe0cb50a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8616ff6bc8d8afde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ba2381fbe61ebb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "25dbd8cb3d2ff659",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9130a53a78bca21c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405.5
+  },
+  "right": {
+    "id": "7a121685a421986d",
+    "type": "split",
+    "children": [
+      {
+        "id": "280e7c3945e1e33c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14fa2305c30469e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "officeclaw执行claw-bench email 前四个任务.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "officeclaw执行claw-bench email 前四个任务 的反向链接列表"
+            }
+          },
+          {
+            "id": "5f4c131ddaf8ea49",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "officeclaw执行claw-bench email 前四个任务.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "officeclaw执行claw-bench email 前四个任务 的出链列表"
+            }
+          },
+          {
+            "id": "045da54bde2031e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b5b28ac3c5483492",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "072693df3abbb480",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "officeclaw执行claw-bench email 前四个任务.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "officeclaw执行claw-bench email 前四个任务 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "8feb6cd4f91e11fb",
+  "lastOpenFiles": [
+    "附件/Pasted image 20260509151501.png",
+    "附件/Pasted image 20260509151447.png",
+    "附件/Pasted image 20260509151435.png",
+    "附件/Pasted image 20260509151247.png",
+    "附件/Pasted image 20260509151212.png",
+    "附件/Pasted image 20260509151131.png",
+    "附件/Pasted image 20260509144933.png",
+    "officeclaw执行claw-bench email 前四个任务.md",
+    "附件/Pasted image 20260509145112.png",
+    "附件/Pasted image 20260509145441.png",
+    "附件/Pasted image 20260509145352.png",
+    "附件/Pasted image 20260509145342.png",
+    "附件",
+    "欢迎.md"
+  ]
+}

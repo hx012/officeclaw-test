@@ -1,0 +1,30 @@
+[
+  {
+    "sender": "linda.park@globalcorp.com",
+    "count": 6
+  },
+  {
+    "sender": "mike.chen@startupx.io",
+    "count": 4
+  },
+  {
+    "sender": "sarah.jones@techwave.com",
+    "count": 3
+  },
+  {
+    "sender": "emma.liu@finserve.com",
+    "count": 2
+  },
+  {
+    "sender": "noreply@newsletter.dev",
+    "count": 2
+  },
+  {
+    "sender": "raj.patel@designhub.co",
+    "count": 2
+  },
+  {
+    "sender": "tom.baker@cloudops.net",
+    "count": 1
+  }
+]
